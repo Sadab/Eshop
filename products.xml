@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+  <post>
+    <UserName>sadab</UserName>
+    <title>super</title>
+    <writing>100</writing>
+    <pic>Images/1102054666.jpg</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>superman</title>
+    <writing>100</writing>
+    <pic>Images/839704243.png</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>like</title>
+    <writing>444</writing>
+    <pic>Images/418155528.png</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>ajaira</title>
+    <writing>20</writing>
+    <pic>Images/1487408216.png</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>Lorem Ipsum is si</title>
+    <writing>33</writing>
+    <pic>Images/2104874363.jpg</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>Lorem Ipsum is si</title>
+    <writing>33</writing>
+    <pic>Images/1650512341.jpg</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>Lorem Ipsum is si</title>
+    <writing>33</writing>
+    <pic>Images/1319037672.jpg</pic>
+    <price>10</price>
+  </post>
+  <post>
+    <UserName>sadab</UserName>
+    <title>superman</title>
+    <writing>3</writing>
+    <pic>Images/839946841.png</pic>
+    <price>2</price>
+  </post>
+</posts>
